@@ -11,5 +11,5 @@ The commands below will install the dependencies and open the project.
 ```
 poetry install
 poetry shell
-poetry jupyter-notebook &
+jupyter-notebook &
 ```
