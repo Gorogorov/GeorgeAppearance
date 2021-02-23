@@ -1,6 +1,6 @@
 ## Overview
 
-This is a tiny project to practice deep learning skills.
+This is a tiny project to practice deep learning skills. The model distinguishes between images with and without Saint George. 
 
 ### Python dependencies / Poetry installation
 Make sure you have Python3.9 installed and, to install Poetry, just follow the instructions from https://python-poetry.org/docs/#installation
