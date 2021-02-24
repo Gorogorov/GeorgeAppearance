@@ -1,6 +1,6 @@
 ## Overview
 
-This is a tiny project to practice deep learning skills. The model distinguishes between images with and without Saint George. It achived 90.5 accuracy.
+This is a tiny project to practice deep learning skills. The model distinguishes between images with and without Saint George. It achived 93.8 accuracy.
 All images are removed from the output for copyright reasons. 
 
 ### Python dependencies / Poetry installation
