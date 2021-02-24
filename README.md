@@ -20,4 +20,4 @@ jupyter-notebook &
 
 The last notebook contains the current version of the project.
 ## Dataset
-You can download dataset from [here](data/geogres.csv) and [here](data/non_georges.csv). It contains 6047 images that are divided into 2 categories: 2681 with St. George and 3366 without him. 
+You can download dataset from [here](https://github.com/Gorogorov/GeorgeAppearance/blob/main/data/georges.csv) and [here](https://github.com/Gorogorov/GeorgeAppearance/blob/main/data/non_georges.csv). It contains 6047 images that are divided into 2 categories: 2681 with St. George and 3366 without him. 
