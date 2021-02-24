@@ -113,6 +113,17 @@ optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 
 [[package]]
+name = "efficientnet-pytorch"
+version = "0.7.0"
+description = "EfficientNet implemented in PyTorch."
+category = "main"
+optional = false
+python-versions = ">=3.5.0"
+
+[package.dependencies]
+torch = "*"
+
+[[package]]
 name = "entrypoints"
 version = "0.3"
 description = "Discover and load entry points from installed packages."
@@ -815,7 +826,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "d569af75d95f9cc7ba46e848c4cabb6f1ff353c23dc9fd367a5178ef3df5026a"
+content-hash = "000ef10e992c35deace66b8b227e7d36bbe238b1babede7c5554fc8225523b5d"
 
 [metadata.files]
 appnope = [
@@ -912,6 +923,9 @@ decorator = [
 defusedxml = [
     {file = "defusedxml-0.6.0-py2.py3-none-any.whl", hash = "sha256:6687150770438374ab581bb7a1b327a847dd9c5749e396102de3fad4e8a3ef93"},
     {file = "defusedxml-0.6.0.tar.gz", hash = "sha256:f684034d135af4c6cbb949b8a4d2ed61634515257a67299e5f940fbaa34377f5"},
+]
+efficientnet-pytorch = [
+    {file = "efficientnet_pytorch-0.7.0.tar.gz", hash = "sha256:7c0093428fc6a4137465de0f8101332a31c98072200ac8e14a6324cedad3b109"},
 ]
 entrypoints = [
     {file = "entrypoints-0.3-py2.py3-none-any.whl", hash = "sha256:589f874b313739ad35be6e0cd7efde2a4e9b6fea91edcc34e58ecbb8dbe56d19"},
