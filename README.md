@@ -26,7 +26,7 @@ jupyter-notebook &
 Инициализация моделей и оптимизаторов, подбор гиперпараметров и краткий анализ результатов содержатся в [ноутбуке](https://github.com/Gorogorov/GeorgeAppearance/blob/main/notebooks/TrainAndResults.ipynb). Обученные модели содержатся в директории [models](https://github.com/Gorogorov/GeorgeAppearance/blob/main/models).
 
 ## Результаты
-Обе модели получили схожие результаты, однако, исходя из размеров моделей, предпочтительнее использовать EfficinetNet. Краткая сводка результов (больше - в ноутбуке, либо можно посмотреть директорию [md_images](https://github.com/Gorogorov/GeorgeAppearance/blob/main/md_images)):
+Обе модели получили схожие результаты, однако, исходя из размеров моделей, предпочтительнее использовать EfficinetNet. Краткая сводка результатов (больше - в ноутбуке, либо можно посмотреть директорию [md_images](https://github.com/Gorogorov/GeorgeAppearance/blob/main/md_images)):
 
 |Model			    |#Params      |Accuracy		|F1 Score		|Presicion	|Recall		|ROC-AUC
 |---------------|---------------|---------------|-----------|-----------|----------|----------|
